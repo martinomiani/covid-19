@@ -5,3 +5,4 @@ ipyleaflet
 pandas
 bqplot
 branca
+matplotlib
